@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
-[![LeetCode Solutions](https://img.shields.io/badge/LeetCode-Solutions-brightgreen.svg)]([https://your-leetcode-solutions-link](https://github.com/Maham-j/LeetCode-problems))
-[![License](https://img.shields.io/github/license/Maham-j/leetcode-solutions)]([https://your-license-link](https://github.com/Maham-j/LeetCode-problems/blob/main/Problem-List/license.md))
-[![GitHub stars](https://img.shields.io/github/stars/Maham-j/leetcode-solutions)]([https://github.com/Maham-j/leetcode-solutions/stargazers](https://github.com/Maham-j?tab=stars))
-[![GitHub forks](https://img.shields.io/github/forks/Maham-j/leetcode-solutions)]([https://github.com/Maham-j/leetcode-solutions/network/members](https://github.com/Maham-j/LeetCode-problems/graphs/traffic))
+[![LeetCode Solutions](https://img.shields.io/badge/LeetCode-Solutions-brightgreen.svg)](https://github.com/Maham-j/LeetCode-problems)
+[![License](https://img.shields.io/github/license/Maham-j/leetcode-solutions)](https://github.com/Maham-j/LeetCode-problems/blob/main/Problem-List/license.md)
+[![GitHub stars](https://img.shields.io/github/stars/Maham-j/leetcode-solutions)](https://github.com/Maham-j?tab=stars)
+[![GitHub forks](https://img.shields.io/github/forks/Maham-j/leetcode-solutions)](https://github.com/Maham-j/leetcode-solutions/network/members)
 
 ## Overview
 
