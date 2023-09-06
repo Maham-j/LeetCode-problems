@@ -1,9 +1,15 @@
-# LeetCode Solutions
+<div align="center" style="background-color: black; color: white;">
+  <h1>👋 Hi, I'm <span style="color: purple;">MAHAM JAMIL</span>!</h1>
+  <p>Welcome to my LeetCode Solutions Repository 🚀</p>
+  <p>Join me on this coding adventure as I tackle LeetCode challenges and provide efficient solutions.</p>
+  <p>Let's explore, learn, and grow together in the world of algorithms and coding!</p>
+</div>
 
-[![LeetCode Solutions](https://img.shields.io/badge/LeetCode-Solutions-brightgreen.svg)](https://github.com/Maham-j/LeetCode-problems)
-[![License](https://img.shields.io/github/license/Maham-j/leetcode-solutions)](https://github.com/Maham-j/LeetCode-problems/blob/main/Problem-List/license.md)
-[![GitHub stars](https://img.shields.io/github/stars/Maham-j/leetcode-solutions)](https://github.com/Maham-j?tab=stars)
-[![GitHub forks](https://img.shields.io/github/forks/Maham-j/leetcode-solutions)](https://github.com/Maham-j/leetcode-solutions/network/members)
+
+
+
+
+
 
 ## Overview
 
@@ -16,7 +22,7 @@ Feel free to explore the solutions, provide feedback, and use them as a referenc
 - [Algorithms](#algorithms)
 - [Data Structures](#data-structures)
 - [Contributing](#contributing)
-- [Find Us Online](#findusonline)
+- [Find Us Online](#find-us-online)
 - [License](#license)
 
 ## Algorithms
