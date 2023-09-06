@@ -1,15 +1,4 @@
-<div align="center" style="background-color: black; color: white;">
-  <h1>👋 Hi, I'm <span style="color: purple;">MAHAM JAMIL</span>!</h1>
-  <p>Welcome to my LeetCode Solutions Repository 🚀</p>
-  <p>Join me on this coding adventure as I tackle LeetCode challenges and provide efficient solutions.</p>
-  <p>Let's explore, learn, and grow together in the world of algorithms and coding!</p>
-</div>
-
-
-
-
-
-
+#  🌟  LeetCode Solutions 🌟
 
 ## Overview
 
