@@ -45,6 +45,15 @@ There's no specific installation required. Just clone the repository and run the
 
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or report bugs.
 
+## Find Us Online 🌐
+
+Discover more exciting coding projects on our [GitHub repository](https://github.com/Maham-j).
+
+Connect with the developer, Maham Jamil, on [LinkedIn](https://www.linkedin.com/in/maham-jamil-268584267).
+
+Connect with the developer, Maham Jamil, on [HackerRank](https://www.hackerrank.com/maham_jamil)
+
+
 ## License 📄
 
 This project is released under the [Unlicense](LICENSE). The Unlicense allows you to use the code in any way you choose without any restrictions. See the [LICENSE](LICENSE) file for the full text of the license.
