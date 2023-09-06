@@ -53,7 +53,6 @@ Connect with the developer, Maham Jamil, on [LinkedIn](https://www.linkedin.com/
 
 Connect with the developer, Maham Jamil, on [HackerRank](https://www.hackerrank.com/maham_jamil)
 
-
 ## License 📄
 
 This project is released under the [Unlicense](LICENSE). The Unlicense allows you to use the code in any way you choose without any restrictions. See the [LICENSE](LICENSE) file for the full text of the license.
