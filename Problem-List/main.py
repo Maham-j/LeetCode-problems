@@ -8,7 +8,7 @@ class Solution(object):
         # Initialize an empty list to store the indices of the two numbers.
         indexes = []
 
-        # Iterate through the 'nums' list.
+        # Iterate through the 'nums' list. 
         for i in range(len(nums)):
             for j in range(i + 1, len(nums)):
                 # Check if the sum of the current pair of numbers equals the target.
