@@ -2,7 +2,7 @@ class Solution(object):
     def twoSum(self, nums, target):  
         """ 
         :type nums: List[int]
-        :type target: int
+        :type target: int 
         :rtype: List[int] 
         """
         # Initialize an empty list to store the indices of the two numbers.
